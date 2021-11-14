@@ -1,0 +1,6 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/SumXProveALPE/AncientLands2-Plugin
+build-by-default: true
+branches:
+- main
+projects: []
+...
